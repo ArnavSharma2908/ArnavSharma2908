@@ -14,7 +14,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavsharma2908@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-sharma-93a9bb269/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArnavSharma2908)
-[![FIDE](https://img.shields.io/badge/FIDE-Profile-black?style=for-the-badge&logo=chess-dot-com&logoColor=white)](https://ratings.fide.com/profile/88125041)
 
 ---
 
