@@ -3,11 +3,18 @@
 **Computer Science & Engineering Student | Chess Enthusiast**  
 📍 Delhi, India  
 
-[![Chess.com](https://img.shields.io/badge/Challenge%20me-Chess.com-green?style=flat-square&logo=chessdotcom&logoColor=white)](https://www.chess.com/play/online/new?opponent=arnavsharma2908)
-&nbsp
-[![Lichess](https://img.shields.io/badge/Challenge%20me-Lichess-black?style=flat-square&logo=lichess&logoColor=white)](https://lichess.org/?user=ArnavSharma#friend)
-&nbsp
-[![FIDE Profile](https://img.shields.io/badge/FIDE-88125041-black?style=flat-square&logo=chess-dot-com)](https://ratings.fide.com/profile/88125041)
+<p align="center">
+  <a href="https://www.chess.com/play/online/new?opponent=arnavsharma2908">
+    <img src="https://img.shields.io/badge/Challenge%20me-Chess.com-green?style=flat-square&logo=chessdotcom&logoColor=white" />
+  </a>
+  <a href="https://lichess.org/?user=ArnavSharma#friend" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/Challenge%20me-Lichess-black?style=flat-square&logo=lichess&logoColor=white" />
+  </a>
+  <a href="https://ratings.fide.com/profile/88125041" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/FIDE-88125041-black?style=flat-square&logo=chess-dot-com" />
+  </a>
+</p>
+
 
 ---
 
