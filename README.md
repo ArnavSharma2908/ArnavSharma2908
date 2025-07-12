@@ -3,22 +3,18 @@
 **Computer Science & Engineering Student | Chess Enthusiast**  
 📍 Delhi, India  
 
-## ♟️ Chess Zone  
-[![Chess.com](https://img.shields.io/badge/Challenge%20me-Chess.com-green?style=flat-square&logo=chessdotcom&logoColor=white)](https://www.chess.com/play/online/new?opponent=arnavsharma2908)
-&nbsp;&nbsp;
-[![Lichess](https://img.shields.io/badge/Challenge%20me-Lichess-black?style=flat-square&logo=lichess&logoColor=white)](https://lichess.org/?user=ArnavSharma#friend)
-&nbsp;&nbsp;
-[![FIDE Profile](https://img.shields.io/badge/FIDE-88125041-black?style=flat-square&logo=chess-dot-com)](https://ratings.fide.com/profile/88125041)
+## ♟️ Chess Zone
 
-| ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
-|---|---|---|---|---|---|---|---|
-| ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
-| ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ |
-| ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ |
-| ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ |
-| ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ |
-| ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
-| ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
+| **Links**                                                                                                              | 🏆 | a | b | c | d | e | f | g | h |
+|:-----------------------------------------------------------------------------------------------------------------------|:--------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| [![Chess.com](https://img.shields.io/badge/Challenge%20me-Chess.com-green?style=flat-square&logo=chessdotcom&logoColor=white)](https://www.chess.com/play/online/new?opponent=arnavsharma2908) |    8     | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
+|                                                                                                                        |    7     | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
+|                                                                                                                        |    6     | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ |
+| [![Lichess](https://img.shields.io/badge/Challenge%20me-Lichess-black?style=flat-square&logo=lichess&logoColor=white)](https://lichess.org/?user=ArnavSharma#friend)                        |    5     | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ |
+|                                                                                                                        |    4     | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ |
+|                                                                                                                        |    3     | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ |
+| [![FIDE Profile](https://img.shields.io/badge/FIDE-88125041-black?style=flat-square&logo=chess-dot-com)](https://ratings.fide.com/profile/88125041)                                     |    2     | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
+|                                                                                                                        |    1     | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
 
 
 
