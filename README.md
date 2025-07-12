@@ -2,10 +2,10 @@
 
 **Computer Science & Engineering Student | Chess Enthusiast**  
 📍 Delhi, India  
-[![Email](https://img.shields.io/badge/Email-arnavsharma2908@gmail.com-red?style=flat-square&logo=gmail)](mailto:arnavsharma2908@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/arnav-sharma-93a9bb269/)
-[![GitHub](https://img.shields.io/badge/GitHub-ArnavSharma2908-181717?style=flat-square&logo=github)](https://github.com/ArnavSharma2908)
-[![FIDE](https://img.shields.io/badge/FIDE-88125041-black?style=flat-square&logo=chess-dot-com)](https://ratings.fide.com/profile/88125041)
+
+[![Chess.com](https://img.shields.io/badge/Challenge%20me-Chess.com-green?style=flat-square&logo=chessdotcom&logoColor=white)](https://www.chess.com/play/online/new?opponent=arnavsharma2908)
+[![Lichess](https://img.shields.io/badge/Challenge%20me-Lichess-black?style=flat-square&logo=lichess&logoColor=white)](https://lichess.org/?user=ArnavSharma#friend)
+[![FIDE Profile](https://img.shields.io/badge/FIDE-88125041-black?style=flat-square&logo=chess-dot-com)](https://ratings.fide.com/profile/88125041)
 
 ---
 
