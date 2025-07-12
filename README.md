@@ -3,18 +3,18 @@
 **Computer Science & Engineering Student | Chess Enthusiast**  
 📍 Delhi, India  
 
-<p align="center">
-  <a href="https://www.chess.com/play/online/new?opponent=arnavsharma2908">
-    <img src="https://img.shields.io/badge/Challenge%20me-Chess.com-green?style=flat-square&logo=chessdotcom&logoColor=white" />
-  </a>
-  <a href="https://lichess.org/?user=ArnavSharma#friend" style="margin-left:10px;">
-    <img src="https://img.shields.io/badge/Challenge%20me-Lichess-black?style=flat-square&logo=lichess&logoColor=white" />
-  </a>
-  <a href="https://ratings.fide.com/profile/88125041" style="margin-left:10px;">
-    <img src="https://img.shields.io/badge/FIDE-88125041-black?style=flat-square&logo=chess-dot-com" />
-  </a>
-</p>
+## ♟️ Chess Zone  
+[![Chess.com](https://img.shields.io/badge/Challenge%20me-Chess.com-green?style=flat-square&logo=chessdotcom&logoColor=white)](https://www.chess.com/play/online/new?opponent=arnavsharma2908)
+&nbsp;&nbsp;
+[![Lichess](https://img.shields.io/badge/Challenge%20me-Lichess-black?style=flat-square&logo=lichess&logoColor=white)](https://lichess.org/?user=ArnavSharma#friend)
+&nbsp;&nbsp;
+[![FIDE Profile](https://img.shields.io/badge/FIDE-88125041-black?style=flat-square&logo=chess-dot-com)](https://ratings.fide.com/profile/88125041)
 
+## 📫 Let's Connect  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavsharma2908@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-sharma-93a9bb269/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArnavSharma2908)
+[![FIDE](https://img.shields.io/badge/FIDE-Profile-black?style=for-the-badge&logo=chess-dot-com&logoColor=white)](https://ratings.fide.com/profile/88125041)
 
 ---
 
@@ -70,14 +70,3 @@ Classic Snake game implemented using Python + Linked Lists.
 
 🏅 **2nd Place**, CP Potpourri, *Shaastra ’25* (IIT Madras)  
 ♟️ Multiple rated chess tournaments under **FIDE ID: 88125041**
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:arnavsharma2908@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/arnav-sharma-93a9bb269/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ArnavSharma2908"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://ratings.fide.com/profile/88125041"><img src="https://img.shields.io/badge/FIDE-Profile-black?style=for-the-badge&logo=chess-dot-com&logoColor=white"/></a>
-</p>
