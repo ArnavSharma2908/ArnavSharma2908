@@ -2,6 +2,7 @@
 
 **Computer Science & Engineering Student | Chess Enthusiast**  
 Delhi, India  
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./resume.pdf)
 [Email✉️](mailto:arnavsharma2908@gmail.com) · [LinkedIn🔗](https://linkedin.com/in/arnav-sharma-93a9bb269/) · [GitHub💻](https://github.com/ArnavSharma2908) · [FIDE♟️](https://ratings.fide.com/profile/88125041)
 
 Engineer-in-training passionate about AI, robotics, and coding. FIDE-rated chess player, always up for a chess match or a new project.
