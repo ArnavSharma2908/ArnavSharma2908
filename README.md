@@ -10,6 +10,16 @@
 &nbsp;&nbsp;
 [![FIDE Profile](https://img.shields.io/badge/FIDE-88125041-black?style=flat-square&logo=chess-dot-com)](https://ratings.fide.com/profile/88125041)
 
+♜	♞	♝	♛	♚	♝	♞	♜
+♟	♟	♟	♟	♟	♟	♟	♟
+⬛	⬜	⬛	⬜	⬛	⬜	⬛	⬜
+⬜	⬛	⬜	⬛	⬜	⬛	⬜	⬛
+⬛	⬜	⬛	⬜	⬛	⬜	⬛	⬜
+⬜	⬛	⬜	⬛	⬜	⬛	⬜	⬛
+♙	♙	♙	♙	♙	♙	♙	♙
+♖	♘	♗	♕	♔	♗	♘	♖
+
+
 ## 📫 Let's Connect  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavsharma2908@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-sharma-93a9bb269/)
