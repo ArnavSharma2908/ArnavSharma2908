@@ -11,12 +11,12 @@
 [![FIDE Profile](https://img.shields.io/badge/FIDE-88125041-black?style=flat-square&logo=chess-dot-com)](https://ratings.fide.com/profile/88125041)
 
 ♜	♞	♝	♛	♚	♝	♞	♜\
-♟	♟	♟	♟	♟	♟	♟	♟ 
-⬛	⬜	⬛	⬜	⬛	⬜	⬛	⬜ 
-⬜	⬛	⬜	⬛	⬜	⬛	⬜	⬛ 
-⬛	⬜	⬛	⬜	⬛	⬜	⬛	⬜ 
-⬜	⬛	⬜	⬛	⬜	⬛	⬜	⬛ 
-♙	♙	♙	♙	♙	♙	♙	♙ 
+♟	♟	♟	♟	♟	♟	♟	♟\
+⬛	⬜	⬛	⬜	⬛	⬜	⬛	⬜\
+⬜	⬛	⬜	⬛	⬜	⬛	⬜	⬛\
+⬛	⬜	⬛	⬜	⬛	⬜	⬛	⬜\
+⬜	⬛	⬜	⬛	⬜	⬛	⬜	⬛\
+♙	♙	♙	♙	♙	♙	♙	♙\
 ♖	♘	♗	♕	♔	♗	♘	♖
 
 
