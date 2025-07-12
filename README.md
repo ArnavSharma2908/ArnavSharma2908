@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Arnav — e4/e5♟️  
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./ARNAV%20SHARMA%20-%20Resume.pdf)
+# 👋 Hi, I'm Arnav — e4/e5♟️  [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./ARNAV%20SHARMA%20-%20Resume.pdf)
 
 **Computer Science & Engineering Student · Chess Enthusiast**  
 📍 Delhi, India
+> 🎓 Engineer-in-training passionate about **AI, robotics**, and **coding**.  
+> ♟️ Chess Fan with FIDE 1411 — always up for a match or a new project.
+
 
 ---
 
@@ -26,11 +28,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavsharma2908@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-sharma-93a9bb269/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArnavSharma2908)
-
----
-
-> 🎓 Engineer-in-training passionate about **AI, robotics**, and **coding**.  
-> ♟️ FIDE-rated chess player — always up for a game or a new project.
 
 ---
 
@@ -80,6 +77,5 @@
 ## 🏆 Achievements
 
 - 🥈 **2nd Place**, CP Potpourri, *Shaastra ’25* (IIT Madras)
-- ♟️ Multiple rated chess tournaments under **FIDE ID: 88125041**
 
 ---
