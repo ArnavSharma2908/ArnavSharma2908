@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arnav — e4/e5♟️  [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./ARNAV%20SHARMA%20-%20Resume.pdf)
+# 👋 Hi, I'm Arnav — e4/e5♟️  [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./ARNAV_SHARMA-Resume.pdf)
 
 **Computer Science & Engineering Student · Chess Enthusiast**  
 📍 Delhi, India
