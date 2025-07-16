@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arnav — e4/e5♟️  
 
-<p>
+
   <a href="./ARNAV_SHARMA-Resume.pdf">
     <img src="https://img.shields.io/badge/Resume_📄-PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader" height="40">
   </a>
@@ -10,7 +10,7 @@
   <a href="http://arnav-portfolio.ddnsfree.com/">
     <img src="https://img.shields.io/badge/Live_Portfolio_🌐🔗-DDNS_URL-green?style=for-the-badge&logo=internetexplorer" height="40">
   </a>
-</p>
+
 
 
 
