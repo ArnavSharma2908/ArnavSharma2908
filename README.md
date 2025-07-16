@@ -1,17 +1,8 @@
 # 👋 Hi, I'm Arnav — e4/e5♟️  
 
-
-  <p href="./ARNAV_SHARMA-Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume_📄-PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader" height="40">
-  </p>
-  <p href="http://13.49.243.67/">
-    <img src="https://img.shields.io/badge/Live_Portfolio_🌐☁️-AWS_EC2_IPv4-FFA500?style=for-the-badge&logo=internet-explorer" height="40">
-  </p>
-  <p href="http://arnav-portfolio.ddnsfree.com/">
-    <img src="https://img.shields.io/badge/Live_Portfolio_🌐🔗-DDNS_URL-green?style=for-the-badge&logo=internetexplorer" height="40">
-  </p>
-
-
+[![Resume 📄](https://img.shields.io/badge/Resume_📄-PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader)](./ARNAV_SHARMA-Resume.pdf)  
+[![Live Portfolio 🌐☁️](https://img.shields.io/badge/Live_Portfolio_🌐☁️-AWS_EC2_IPv4-FFA500?style=for-the-badge&logo=internet-explorer)](http://13.49.243.67/)  
+[![Live Portfolio 🌐🔗](https://img.shields.io/badge/Live_Portfolio_🌐🔗-DDNS_URL-green?style=for-the-badge&logo=internetexplorer)](http://arnav-portfolio.ddnsfree.com/)
 
 
 **Computer Science & Engineering Student · Chess Enthusiast**  
