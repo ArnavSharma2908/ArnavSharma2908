@@ -76,7 +76,7 @@
 
 ## 💼 Experience
 
-- 👨‍💻 **Tech Lead**, NIE IEEE Student Branch  
+- 👨‍💻 **Tech Lead**, Computer Society, NIE IEEE Student Branch  
 - 🤖 **Member**, Robotics Club
 
 ---
