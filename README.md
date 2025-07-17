@@ -83,6 +83,6 @@
 
 ## 🏆 Achievements
 
-- 🥈 **2nd Place**, CP Potpourri, *Shaastra ’25* (IIT Madras)
+- 🥈 **2nd Place**, CP Potpourri, *Shaastra ’25* Issued by **IIT Madras**
 
 ---
