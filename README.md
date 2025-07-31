@@ -2,7 +2,7 @@
 
 
 [![Resume 📄](https://img.shields.io/badge/Resume_📄-PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader)](./ARNAV_SHARMA-Resume.pdf) 
-[![Live Portfolio 🌐☁️](https://img.shields.io/badge/Live_Portfolio_🌐☁️-AWS_EC2_IPv4-FFA500?style=for-the-badge&logo=internet-explorer)](http://13.49.243.67/) 
+[![Live Portfolio 🌐☁️](https://img.shields.io/badge/Live_Portfolio_🌐☁️-AWS_EC2_IPv4-FFA500?style=for-the-badge&logo=internet-explorer)](http://16.171.175.190/) 
 [![Live Portfolio 🌐🔗](https://img.shields.io/badge/Live_Portfolio_🌐🔗-DDNS_URL-green?style=for-the-badge&logo=internetexplorer)](http://arnav-portfolio.ddnsfree.com/)
 
 
