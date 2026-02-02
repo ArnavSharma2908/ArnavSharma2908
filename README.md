@@ -52,6 +52,10 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 
 ---
 
@@ -59,6 +63,9 @@
 
 - [**Patient Palace Radiant Care**](https://github.com/ArnavSharma2908/patient-palace-radiant-care)  
   *Full-stack web app for patient management and WhatsApp integration.*
+
+- [**Mystery Animal – Voice Guessing Game**](https://github.com/googlecreativelab/mystery-animal)  
+  *ESP32-based interactive game where players guess a hidden animal using up to 20 voice-based yes/no questions, backed by a Python server driving LED and buzzer feedback.*
 
 - [**Delhi Metro Transit & ChatBot**](https://github.com/ArnavSharma2908/Delhi-Metro-Transit-Corporation-and-Chatbot)  
   *Python-based chatbot + metro guide with interactive maps.*
@@ -84,5 +91,6 @@
 ## 🏆 Achievements
 
 - 🥈 **2nd Place**, CP Potpourri, *Shaastra ’25*, **IIT Madras**
+- 🏆 **ICPC regionalists**, ICPC-25 Asia West Amritapuri Multisite Regionals, **Amritapuri, Mysore**
 
 ---
